@@ -4,6 +4,7 @@
     padding: 0;
     margin: 200px;
     scale: 2;
+    justify-content: center;
 }
 .navegacao li a{
     display: block;
