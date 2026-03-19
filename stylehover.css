@@ -2,8 +2,7 @@
     list-style: none;
     display: flex;
     padding: 0;
-    justify-content: center;
-    margin: 100px auto;
+    
 }
 .navegacao li a{
     display: block;
